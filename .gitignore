@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# File sementara atau custom
+registrasi log .git.txt
+upload_to_github.png

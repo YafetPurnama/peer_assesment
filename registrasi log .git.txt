@@ -627,3 +627,44 @@ $ ^C
 
 Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
 $
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ ^C
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git add .
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git commit -m "Add informasi log n screenshot"^C
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git remote add origin https://github.com/yafetpurnama/peer_assesment.git
+error: remote origin already exists.
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git commit ^C
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git commit -m "Add Registration log and sceenshoot"
+[master b11bdb3] Add Registration log and sceenshoot
+ 2 files changed, 629 insertions(+)
+ create mode 100644 registrasi log .git.txt
+ create mode 100644 upload_to_github.png
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 20.99 KiB | 20.99 MiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/YafetPurnama/peer_assesment.git
+To https://github.com/yafetpurnama/peer_assesment.git
+   aca574e..b11bdb3  master -> master
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$
+
+
