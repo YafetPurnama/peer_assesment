@@ -1,0 +1,629 @@
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment
+$ git config --global user.email "joshuapurnama123@gmail.com"
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment
+$ git init
+Initialized empty Git repository in C:/xampp/htdocs/peer_assesment/.git/
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.hintrc', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'LICENSE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'eslint.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'postcss.config.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-01.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-02.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-03.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-04.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-05.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-06.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-07.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-08.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-09.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-10.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-11.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-12.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-13.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-14.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/brand/brand-15.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-01.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-02.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-03.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-04.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-05.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-06.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-07.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/country/country-08.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/404-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/404.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/500-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/500.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/503-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/503.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/maintenance-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/maintenance.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/success-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/error/success.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-image-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-image.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-pdf-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-pdf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-video-dark.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/icons/file-video.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/logo/auth-logo.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/logo/logo - Copy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/logo/logo-dark - Copy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/logo/logo-icon - Copy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/shape/grid-01.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/task/google-drive.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/task/pdf.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'public/images/video-thumb/youtube-icon-84.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/UserProfile/UserAddressCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/UserProfile/UserInfoCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/UserProfile/UserMetaCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/auth/SignInForm.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/auth/SignUpForm.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/charts/bar/BarChartOne.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/charts/line/LineChartOne.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/ChartTab.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/GridShape.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/PageBreadCrumb.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/PageMeta.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/ScrollToTop.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/ThemeToggleButton.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/common/ThemeTogglerTwo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/CountryMap.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/DemographicCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/EcommerceMetrics.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/MonthlySalesChart.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/MonthlyTarget.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/RecentOrders.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ecommerce/StatisticsChart.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/Form.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/Label.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/MultiSelect.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/Select.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/date-picker.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/CheckboxComponents.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/DefaultInputs.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/DropZone.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/FileInputExample.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/InputGroup.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/InputStates.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/RadioButtons.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/SelectInputs.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/TextAreaInput.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/form-elements/ToggleSwitch.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/group-input/PhoneInput.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/Checkbox.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/FileInput.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/InputField.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/Radio.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/RadioSm.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/input/TextArea.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/form/switch/Switch.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/header/Header.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/header/UserDropdown.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/tables/BasicTables/BasicTableOne.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/alert/Alert.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/avatar/Avatar.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/badge/Badge.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/button/Button.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/dropdown/Dropdown.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/dropdown/DropdownItem.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/images/ResponsiveImage.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/images/ThreeColumnImageGrid.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/images/TwoColumnImageGrid.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/modal/index.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/table/index.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/videos/AspectRatioVideo.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/videos/FourIsToThree.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/videos/OneIsToOne.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/videos/SixteenIsToNine.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/ui/videos/TwentyOneIsToNine.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/context/SidebarContext.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/context/ThemeContext.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useGoBack.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/hooks/useModal.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/account-child-invert-broke.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/account-child-invert.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/alert-hexa.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/alert.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/angle-down.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/angle-left.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/angle-right.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/angle-up.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/arrow-down.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/arrow-right.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/arrow-up.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/audio.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/bolt.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/box-cube.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/box-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/box.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/calendar.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/calender-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/chat.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/check-circle.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/check-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/chevron-down.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/chevron-left.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/chevron-up.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/close-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/close.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/copy.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/docs.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/dollar-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/download.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/envelope.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/eye-close.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/eye.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/file.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/folder.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/grid.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/group.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/horizontal-dots.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/index.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/info-error.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/info-hexa.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/info.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/list.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/lock.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/mail-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/moredot.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/page.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/paper-plane.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/pencil.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/pie-chart.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/plug-in.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/plus.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/scoreboard.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/shooting-star.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/table.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/task-icon.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/time.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/trash.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/user-circle.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/user-line.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/icons/videos.svg', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/layout/AppHeader.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/layout/AppLayout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/layout/AppSidebar.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/layout/Backdrop.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AsDos/AsDos.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AsDos/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AsDos/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AuthPages/AuthPageLayout.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AuthPages/SignIn.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/AuthPages/SignUp.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Blank.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Calendar.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Dashboard/Home.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Dosen/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Dosen/Dosen.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Dosen/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Forms/FormElements.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Mahasiswa/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Mahasiswa/Mahasiswa.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Mahasiswa/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliah/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliah/MataKuliah.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliah/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliahAsdos/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliahAsdos/MataKuliah.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/MataKuliahAsdos/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/OtherPage/NotFound.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Pengelompokan/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Pengelompokan/Pengelompokan.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Pengelompokan/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/PengelompokanAsdos/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/PengelompokanAsdos/Pengelompokan.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/PengelompokanAsdos/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Penilaian/ComponentCard.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Penilaian/Penilaian.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/Penilaian/Table.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Alerts.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Avatars.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Badges.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Buttons.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Images.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UiElements/Videos.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/pages/UserProfiles.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/svg.d.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/vite-env.d.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.app.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.node.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.ts', LF will be replaced by CRLF the next time Git touches it
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git remote add origin https://github.com/yafetpurnama/peer_assesment.git
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git commit -m "upload project"
+[master (root-commit) aca574e] upload project
+ 350 files changed, 20386 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .hintrc
+ create mode 100644 LICENSE.md
+ create mode 100644 README.md
+ create mode 100644 backend/add_matkul_asdos.php
+ create mode 100644 backend/auth.php
+ create mode 100644 backend/delete_asdos.php
+ create mode 100644 backend/delete_dosen.php
+ create mode 100644 backend/delete_mahasiswa.php
+ create mode 100644 backend/delete_matakuliah.php
+ create mode 100644 backend/delete_matkul_asdos.php
+ create mode 100644 backend/delete_pengelompokan.php
+ create mode 100644 backend/delete_penilaian.php
+ create mode 100644 backend/get_asdos.php
+ create mode 100644 backend/get_dashboard.php
+ create mode 100644 backend/get_dosen.php
+ create mode 100644 backend/get_mahasiswa.php
+ create mode 100644 backend/get_mahasiswa_pengelompokan.php
+ create mode 100644 backend/get_matakuliah.php
+ create mode 100644 backend/get_matakuliah_by_id.php
+ create mode 100644 backend/get_pengelompokan.php
+ create mode 100644 backend/get_pengelompokan_by_asdos.php
+ create mode 100644 backend/get_penilaian_by_user_id.php
+ create mode 100644 backend/insert_asdos.php
+ create mode 100644 backend/insert_dosen.php
+ create mode 100644 backend/insert_mahasiswa.php
+ create mode 100644 backend/insert_matakuliah.php
+ create mode 100644 backend/insert_pengelompokan.php
+ create mode 100644 backend/insert_penilaian.php
+ create mode 100644 backend/matakuliah.php
+ create mode 100644 backend/update_asdos.php
+ create mode 100644 backend/update_dosen.php
+ create mode 100644 backend/update_mahasiswa.php
+ create mode 100644 backend/update_matakuliah.php
+ create mode 100644 backend/update_pengelompokan.php
+ create mode 100644 backend/update_penilaian.php
+ create mode 100644 banner.png
+ create mode 100644 eslint.config.js
+ create mode 100644 index.html
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 postcss.config.js
+ create mode 100644 public/favicon-draft.png
+ create mode 100644 public/favicon.png
+ create mode 100644 public/images/brand/brand-01.svg
+ create mode 100644 public/images/brand/brand-02.svg
+ create mode 100644 public/images/brand/brand-03.svg
+ create mode 100644 public/images/brand/brand-04.svg
+ create mode 100644 public/images/brand/brand-05.svg
+ create mode 100644 public/images/brand/brand-06.svg
+ create mode 100644 public/images/brand/brand-07.svg
+ create mode 100644 public/images/brand/brand-08.svg
+ create mode 100644 public/images/brand/brand-09.svg
+ create mode 100644 public/images/brand/brand-10.svg
+ create mode 100644 public/images/brand/brand-11.svg
+ create mode 100644 public/images/brand/brand-12.svg
+ create mode 100644 public/images/brand/brand-13.svg
+ create mode 100644 public/images/brand/brand-14.svg
+ create mode 100644 public/images/brand/brand-15.svg
+ create mode 100644 public/images/cards/card-01.jpg
+ create mode 100644 public/images/cards/card-01.png
+ create mode 100644 public/images/cards/card-02.jpg
+ create mode 100644 public/images/cards/card-02.png
+ create mode 100644 public/images/cards/card-03.jpg
+ create mode 100644 public/images/cards/card-03.png
+ create mode 100644 public/images/carousel/carousel-01.png
+ create mode 100644 public/images/carousel/carousel-02.png
+ create mode 100644 public/images/carousel/carousel-03.png
+ create mode 100644 public/images/carousel/carousel-04.png
+ create mode 100644 public/images/chat/chat.jpg
+ create mode 100644 public/images/country/country-01.svg
+ create mode 100644 public/images/country/country-02.svg
+ create mode 100644 public/images/country/country-03.svg
+ create mode 100644 public/images/country/country-04.svg
+ create mode 100644 public/images/country/country-05.svg
+ create mode 100644 public/images/country/country-06.svg
+ create mode 100644 public/images/country/country-07.svg
+ create mode 100644 public/images/country/country-08.svg
+ create mode 100644 public/images/error/404-dark.svg
+ create mode 100644 public/images/error/404.svg
+ create mode 100644 public/images/error/500-dark.svg
+ create mode 100644 public/images/error/500.svg
+ create mode 100644 public/images/error/503-dark.svg
+ create mode 100644 public/images/error/503.svg
+ create mode 100644 public/images/error/maintenance-dark.svg
+ create mode 100644 public/images/error/maintenance.svg
+ create mode 100644 public/images/error/success-dark.svg
+ create mode 100644 public/images/error/success.svg
+ create mode 100644 public/images/favicon - Copy.zip
+ create mode 100644 public/images/favicon.ico
+ create mode 100644 public/images/grid-image/image-01.png
+ create mode 100644 public/images/grid-image/image-02.png
+ create mode 100644 public/images/grid-image/image-03.png
+ create mode 100644 public/images/grid-image/image-04.png
+ create mode 100644 public/images/grid-image/image-05.png
+ create mode 100644 public/images/grid-image/image-06.png
+ create mode 100644 public/images/icons/file-image-dark.svg
+ create mode 100644 public/images/icons/file-image.svg
+ create mode 100644 public/images/icons/file-pdf-dark.svg
+ create mode 100644 public/images/icons/file-pdf.svg
+ create mode 100644 public/images/icons/file-video-dark.svg
+ create mode 100644 public/images/icons/file-video.svg
+ create mode 100644 public/images/logo/auth-logo.svg
+ create mode 100644 public/images/logo/logo - Copy.svg
+ create mode 100644 public/images/logo/logo-dark - Copy.svg
+ create mode 100644 public/images/logo/logo-dark.svg
+ create mode 100644 public/images/logo/logo-icon - Copy.svg
+ create mode 100644 public/images/logo/logo-icon.svg
+ create mode 100644 public/images/logo/logo.svg
+ create mode 100644 public/images/product/product-01.jpg
+ create mode 100644 public/images/product/product-02.jpg
+ create mode 100644 public/images/product/product-03.jpg
+ create mode 100644 public/images/product/product-04.jpg
+ create mode 100644 public/images/product/product-05.jpg
+ create mode 100644 public/images/shape/grid-01.svg
+ create mode 100644 public/images/task/google-drive.svg
+ create mode 100644 public/images/task/pdf.svg
+ create mode 100644 public/images/task/task.jpg
+ create mode 100644 public/images/task/task.png
+ create mode 100644 public/images/user/owner - Copy.jpg
+ create mode 100644 public/images/user/owner-2.jpg
+ create mode 100644 public/images/user/owner.png
+ create mode 100644 public/images/user/user-01.jpg
+ create mode 100644 public/images/user/user-02.jpg
+ create mode 100644 public/images/user/user-03.jpg
+ create mode 100644 public/images/user/user-04.jpg
+ create mode 100644 public/images/user/user-05.jpg
+ create mode 100644 public/images/user/user-06.jpg
+ create mode 100644 public/images/user/user-07.jpg
+ create mode 100644 public/images/user/user-08.jpg
+ create mode 100644 public/images/user/user-09.jpg
+ create mode 100644 public/images/user/user-10.jpg
+ create mode 100644 public/images/user/user-11.jpg
+ create mode 100644 public/images/user/user-12.jpg
+ create mode 100644 public/images/user/user-13.jpg
+ create mode 100644 public/images/user/user-14.jpg
+ create mode 100644 public/images/user/user-15.jpg
+ create mode 100644 public/images/user/user-16.jpg
+ create mode 100644 public/images/user/user-17.jpg
+ create mode 100644 public/images/user/user-18.jpg
+ create mode 100644 public/images/user/user-19.jpg
+ create mode 100644 public/images/user/user-20.jpg
+ create mode 100644 public/images/user/user-21.jpg
+ create mode 100644 public/images/user/user-22.jpg
+ create mode 100644 public/images/user/user-23.jpg
+ create mode 100644 public/images/user/user-24.jpg
+ create mode 100644 public/images/user/user-25.jpg
+ create mode 100644 public/images/user/user-26.jpg
+ create mode 100644 public/images/user/user-27.jpg
+ create mode 100644 public/images/user/user-28.jpg
+ create mode 100644 public/images/user/user-29.jpg
+ create mode 100644 public/images/user/user-30.jpg
+ create mode 100644 public/images/user/user-31.jpg
+ create mode 100644 public/images/user/user-32.jpg
+ create mode 100644 public/images/user/user-33.jpg
+ create mode 100644 public/images/user/user-34.jpg
+ create mode 100644 public/images/user/user-35.jpg
+ create mode 100644 public/images/user/user-36.jpg
+ create mode 100644 public/images/user/user-37.jpg
+ create mode 100644 public/images/video-thumb/thumb-16.png
+ create mode 100644 public/images/video-thumb/youtube-icon-84.svg
+ create mode 100644 public/unnamed.jpg
+ create mode 100644 src/App.tsx
+ create mode 100644 src/components/UserProfile/UserAddressCard.tsx
+ create mode 100644 src/components/UserProfile/UserInfoCard.tsx
+ create mode 100644 src/components/UserProfile/UserMetaCard.tsx
+ create mode 100644 src/components/auth/SignInForm.tsx
+ create mode 100644 src/components/auth/SignUpForm.tsx
+ create mode 100644 src/components/charts/bar/BarChartOne.tsx
+ create mode 100644 src/components/charts/line/LineChartOne.tsx
+ create mode 100644 src/components/common/ChartTab.tsx
+ create mode 100644 src/components/common/ComponentCard.tsx
+ create mode 100644 src/components/common/GridShape.tsx
+ create mode 100644 src/components/common/PageBreadCrumb.tsx
+ create mode 100644 src/components/common/PageMeta.tsx
+ create mode 100644 src/components/common/PrivateRoute.tsx
+ create mode 100644 src/components/common/ScrollToTop.tsx
+ create mode 100644 src/components/common/ThemeToggleButton.tsx
+ create mode 100644 src/components/common/ThemeTogglerTwo.tsx
+ create mode 100644 src/components/ecommerce/CountryMap.tsx
+ create mode 100644 src/components/ecommerce/DemographicCard.tsx
+ create mode 100644 src/components/ecommerce/EcommerceMetrics.tsx
+ create mode 100644 src/components/ecommerce/MonthlySalesChart.tsx
+ create mode 100644 src/components/ecommerce/MonthlyTarget.tsx
+ create mode 100644 src/components/ecommerce/RecentOrders.tsx
+ create mode 100644 src/components/ecommerce/StatisticsChart.tsx
+ create mode 100644 src/components/form/Form.tsx
+ create mode 100644 src/components/form/Label.tsx
+ create mode 100644 src/components/form/MultiSelect.tsx
+ create mode 100644 src/components/form/Select.tsx
+ create mode 100644 src/components/form/date-picker.tsx
+ create mode 100644 src/components/form/form-elements/CheckboxComponents.tsx
+ create mode 100644 src/components/form/form-elements/DefaultInputs.tsx
+ create mode 100644 src/components/form/form-elements/DropZone.tsx
+ create mode 100644 src/components/form/form-elements/FileInputExample.tsx
+ create mode 100644 src/components/form/form-elements/InputGroup.tsx
+ create mode 100644 src/components/form/form-elements/InputStates.tsx
+ create mode 100644 src/components/form/form-elements/RadioButtons.tsx
+ create mode 100644 src/components/form/form-elements/SelectInputs.tsx
+ create mode 100644 src/components/form/form-elements/TextAreaInput.tsx
+ create mode 100644 src/components/form/form-elements/ToggleSwitch.tsx
+ create mode 100644 src/components/form/group-input/PhoneInput.tsx
+ create mode 100644 src/components/form/input/Checkbox.tsx
+ create mode 100644 src/components/form/input/FileInput.tsx
+ create mode 100644 src/components/form/input/InputField.tsx
+ create mode 100644 src/components/form/input/Radio.tsx
+ create mode 100644 src/components/form/input/RadioSm.tsx
+ create mode 100644 src/components/form/input/TextArea.tsx
+ create mode 100644 src/components/form/switch/Switch.tsx
+ create mode 100644 src/components/header/Header.tsx
+ create mode 100644 src/components/header/UserDropdown.tsx
+ create mode 100644 src/components/tables/BasicTables/BasicTableOne.tsx
+ create mode 100644 src/components/ui/ScoreBar.tsx
+ create mode 100644 src/components/ui/alert/Alert.tsx
+ create mode 100644 src/components/ui/avatar/Avatar.tsx
+ create mode 100644 src/components/ui/badge/Badge.tsx
+ create mode 100644 src/components/ui/button/Button.tsx
+ create mode 100644 src/components/ui/dropdown/Dropdown.tsx
+ create mode 100644 src/components/ui/dropdown/DropdownItem.tsx
+ create mode 100644 src/components/ui/images/ResponsiveImage.tsx
+ create mode 100644 src/components/ui/images/ThreeColumnImageGrid.tsx
+ create mode 100644 src/components/ui/images/TwoColumnImageGrid.tsx
+ create mode 100644 src/components/ui/modal/index.tsx
+ create mode 100644 src/components/ui/table/index.tsx
+ create mode 100644 src/components/ui/videos/AspectRatioVideo.tsx
+ create mode 100644 src/components/ui/videos/FourIsToThree.tsx
+ create mode 100644 src/components/ui/videos/OneIsToOne.tsx
+ create mode 100644 src/components/ui/videos/SixteenIsToNine.tsx
+ create mode 100644 src/components/ui/videos/TwentyOneIsToNine.tsx
+ create mode 100644 src/context/SidebarContext.tsx
+ create mode 100644 src/context/ThemeContext.tsx
+ create mode 100644 src/hooks/useGoBack.ts
+ create mode 100644 src/hooks/useModal.ts
+ create mode 100644 src/icons/Groups.svg
+ create mode 100644 src/icons/account-child-invert-backup.svg
+ create mode 100644 src/icons/account-child-invert-broke.svg
+ create mode 100644 src/icons/account-child-invert.svg
+ create mode 100644 src/icons/alert-hexa.svg
+ create mode 100644 src/icons/alert.svg
+ create mode 100644 src/icons/angle-down.svg
+ create mode 100644 src/icons/angle-left.svg
+ create mode 100644 src/icons/angle-right.svg
+ create mode 100644 src/icons/angle-up.svg
+ create mode 100644 src/icons/arrow-down.svg
+ create mode 100644 src/icons/arrow-right.svg
+ create mode 100644 src/icons/arrow-up.svg
+ create mode 100644 src/icons/audio.svg
+ create mode 100644 src/icons/auto_stories.svg
+ create mode 100644 src/icons/bolt.svg
+ create mode 100644 src/icons/box-cube.svg
+ create mode 100644 src/icons/box-line.svg
+ create mode 100644 src/icons/box.svg
+ create mode 100644 src/icons/calendar.svg
+ create mode 100644 src/icons/calender-line.svg
+ create mode 100644 src/icons/chat.svg
+ create mode 100644 src/icons/check-circle.svg
+ create mode 100644 src/icons/check-line.svg
+ create mode 100644 src/icons/chevron-down.svg
+ create mode 100644 src/icons/chevron-left.svg
+ create mode 100644 src/icons/chevron-up.svg
+ create mode 100644 src/icons/close-line.svg
+ create mode 100644 src/icons/close.svg
+ create mode 100644 src/icons/copy.svg
+ create mode 100644 src/icons/docs.svg
+ create mode 100644 src/icons/dollar-line.svg
+ create mode 100644 src/icons/download.svg
+ create mode 100644 src/icons/envelope.svg
+ create mode 100644 src/icons/eye-close.svg
+ create mode 100644 src/icons/eye.svg
+ create mode 100644 src/icons/file.svg
+ create mode 100644 src/icons/folder.svg
+ create mode 100644 src/icons/grid.svg
+ create mode 100644 src/icons/group.svg
+ create mode 100644 src/icons/horizontal-dots.svg
+ create mode 100644 src/icons/index.ts
+ create mode 100644 src/icons/info-error.svg
+ create mode 100644 src/icons/info-hexa.svg
+ create mode 100644 src/icons/info.svg
+ create mode 100644 src/icons/list.svg
+ create mode 100644 src/icons/lock.svg
+ create mode 100644 src/icons/mail-line.svg
+ create mode 100644 src/icons/manage-accounts.svg
+ create mode 100644 src/icons/moredot.svg
+ create mode 100644 src/icons/page.svg
+ create mode 100644 src/icons/paper-plane.svg
+ create mode 100644 src/icons/pencil.svg
+ create mode 100644 src/icons/pie-chart.svg
+ create mode 100644 src/icons/plug-in.svg
+ create mode 100644 src/icons/plus.svg
+ create mode 100644 src/icons/scoreboard.svg
+ create mode 100644 src/icons/shooting-star.svg
+ create mode 100644 src/icons/supervisor_account.svg
+ create mode 100644 src/icons/table.svg
+ create mode 100644 src/icons/task-icon.svg
+ create mode 100644 src/icons/time.svg
+ create mode 100644 src/icons/trash.svg
+ create mode 100644 src/icons/user-circle.svg
+ create mode 100644 src/icons/user-line.svg
+ create mode 100644 src/icons/videos.svg
+ create mode 100644 src/index.css
+ create mode 100644 src/layout/AppHeader.tsx
+ create mode 100644 src/layout/AppLayout.tsx
+ create mode 100644 src/layout/AppSidebar.tsx
+ create mode 100644 src/layout/Backdrop.tsx
+ create mode 100644 src/main.tsx
+ create mode 100644 src/pages/AsDos/AsDos.tsx
+ create mode 100644 src/pages/AsDos/ComponentCard.tsx
+ create mode 100644 src/pages/AsDos/Table.tsx
+ create mode 100644 src/pages/AuthPages/AuthPageLayout.tsx
+ create mode 100644 src/pages/AuthPages/SignIn.tsx
+ create mode 100644 src/pages/AuthPages/SignUp.tsx
+ create mode 100644 src/pages/Blank.tsx
+ create mode 100644 src/pages/Calendar.tsx
+ create mode 100644 src/pages/Dashboard/Home.tsx
+ create mode 100644 src/pages/Dosen/ComponentCard.tsx
+ create mode 100644 src/pages/Dosen/Dosen.tsx
+ create mode 100644 src/pages/Dosen/Table.tsx
+ create mode 100644 src/pages/Forms/FormElements.tsx
+ create mode 100644 src/pages/Mahasiswa/ComponentCard.tsx
+ create mode 100644 src/pages/Mahasiswa/Mahasiswa.tsx
+ create mode 100644 src/pages/Mahasiswa/Table.tsx
+ create mode 100644 src/pages/MataKuliah/ComponentCard.tsx
+ create mode 100644 src/pages/MataKuliah/MataKuliah.tsx
+ create mode 100644 src/pages/MataKuliah/Table.tsx
+ create mode 100644 src/pages/MataKuliahAsdos/ComponentCard.tsx
+ create mode 100644 src/pages/MataKuliahAsdos/MataKuliah.tsx
+ create mode 100644 src/pages/MataKuliahAsdos/Table.tsx
+ create mode 100644 src/pages/OtherPage/NotFound.tsx
+ create mode 100644 src/pages/Pengelompokan/ComponentCard.tsx
+ create mode 100644 src/pages/Pengelompokan/Pengelompokan.tsx
+ create mode 100644 src/pages/Pengelompokan/Table.tsx
+ create mode 100644 src/pages/PengelompokanAsdos/ComponentCard.tsx
+ create mode 100644 src/pages/PengelompokanAsdos/Pengelompokan.tsx
+ create mode 100644 src/pages/PengelompokanAsdos/Table.tsx
+ create mode 100644 src/pages/Penilaian/ComponentCard.tsx
+ create mode 100644 src/pages/Penilaian/Penilaian.tsx
+ create mode 100644 src/pages/Penilaian/Table.tsx
+ create mode 100644 src/pages/UiElements/Alerts.tsx
+ create mode 100644 src/pages/UiElements/Avatars.tsx
+ create mode 100644 src/pages/UiElements/Badges.tsx
+ create mode 100644 src/pages/UiElements/Buttons.tsx
+ create mode 100644 src/pages/UiElements/Images.tsx
+ create mode 100644 src/pages/UiElements/Videos.tsx
+ create mode 100644 src/pages/UserProfiles.tsx
+ create mode 100644 src/svg.d.ts
+ create mode 100644 src/vite-env.d.ts
+ create mode 100644 tsconfig.app.json
+ create mode 100644 tsconfig.json
+ create mode 100644 tsconfig.node.json
+ create mode 100644 vite.config.ts
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ git push -u origin master
+Enumerating objects: 410, done.
+Counting objects: 100% (410/410), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (393/393), done.
+Writing objects: 100% (410/410), 9.38 MiB | 720.00 KiB/s, done.
+Total 410 (delta 58), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (58/58), done.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/YafetPurnama/peer_assesment.git
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/YafetPurnama/peer_assesment/pull/new/master
+remote:
+To https://github.com/yafetpurnama/peer_assesment.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$ ^C
+
+Yafet@Yafet MINGW64 /c/xampp/htdocs/peer_assesment (master)
+$
