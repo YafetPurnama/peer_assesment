@@ -1,4 +1,4 @@
-# TailAdmin React - Free React Tailwind Admin Dashboard Template
+<!-- # TailAdmin React - Free React Tailwind Admin Dashboard Template
 
 TailAdmin is a free and open-source admin dashboard template built on **React and Tailwind CSS**, providing developers
 with everything they need to create a comprehensive, data-driven back-end,
@@ -6,14 +6,32 @@ dashboard, or admin panel solution for upcoming web projects.
 
 With TailAdmin, you get access to all the necessary dashboard UI components, elements, and pages required to build a
 feature-rich and complete dashboard or admin panel. Whether you're building dashboard or admin panel for a complex web
-application or a simple website, TailAdmin is the perfect solution to help you get up and running quickly.
+application or a simple website, TailAdmin is the perfect solution to help you get up and running quickly. -->
 
-![TailAdmin React.js Dashboard Preview](./banner.png)
+# TailAdmin React - Template Dashboard Admin React Tailwind Gratis
 
-## Overview
+TailAdmin adalah template dasbor admin gratis dan open-source yang dibangun menggunakan React dan Tailwind CSS. Template ini menyediakan semua yang dibutuhkan oleh para pengembang untuk membuat solusi back-end, dasbor, atau panel admin yang komprehensif dan berbasis data untuk proyek web yang akan datang.
+
+Dengan TailAdmin, Anda mendapatkan akses ke semua komponen UI, elemen, dan halaman dasbor yang diperlukan untuk membangun dasbor atau panel admin yang kaya fitur dan lengkap. Baik Anda sedang membangun dasbor atau panel admin untuk aplikasi web yang kompleks maupun situs web yang sederhana, TailAdmin adalah solusi yang sempurna untuk membantu Anda memulai proyek dengan cepat.
+
+# Sistem Penilaian Teman Sebaya (Peer Assessment)
+
+Aplikasi web yang dibangun untuk memfasilitasi proses penilaian antar teman sebaya (peer assessment) di lingkungan akademik. Sistem ini memungkinkan pengelolaan mata kuliah, dosen, asisten dosen, dan proses penilaian.
+
+![Banner Proyek](./banner.png)
+
+<!-- ## Overview
 
 TailAdmin provides essential UI components and layouts for building feature-rich, data-driven admin dashboards and
 control panels. It's built on:
+
+- React 19
+- TypeScript
+- Tailwind CSS -->
+
+## Gambaran Umum
+
+TailAdmin menyediakan komponen UI dan tata letak (layout) penting untuk membangun dasbor admin dan panel kontrol yang kaya fitur dan berbasis data. Template ini dibangun menggunakan:
 
 - React 19
 - TypeScript
@@ -27,53 +45,63 @@ control panels. It's built on:
 - [🖌️ Figma Design File (Community Edition)](https://www.figma.com/community/file/1214477970819985778)
 - [⚡ Get PRO Version](https://tailadmin.com/pricing)
 
+## Teknologi yang Digunakan
+
+- **Frontend**: React, Vite, TypeScript, Tailwind CSS
+- **Backend**: PHP
+- **Web Server**: Supabase (MongoDB)
+
 ### Demos
 
 - [Free Version](https://free-react-demo.tailadmin.com/)
 - [Pro Version](https://react-demo.tailadmin.com)
 
-### Other Versions
+<!-- ### Other Versions -->
+
+### Versi Lainnya
 
 - [HTML Version](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
 - [Next.js Version](https://github.com/TailAdmin/free-nextjs-admin-dashboard)
 - [Vue.js Version](https://github.com/TailAdmin/vue-tailwind-admin-dashboard)
 
-## Installation
+## Instalasi dan Setup
 
-### Prerequisites
+Untuk menjalankan proyek ini di lingkungan lokal, ikuti langkah-langkah berikut:
 
-To get started with TailAdmin, ensure you have the following prerequisites installed and set up:
+## Prasyarat
 
-- Node.js 18.x or later (recommended to use Node.js 20.x or later)
+- [Node.js](https://nodejs.org/) (v18.x atau lebih baru)
+- [XAMPP](https://www.apachefriends.org/index.html) atau web server sejenis yang mendukung PHP dan MySQL jika ingin run di local kalian.
 
-### Cloning the Repository
+### Langkah-langkah
 
-Clone the repository using the following command:
+1.  **Setup Backend**:
 
-```bash
-git clone https://github.com/TailAdmin/free-react-tailwind-admin-dashboard.git
-```
+    - Pindahkan atau kloning repositori ini ke dalam direktori `htdocs` di dalam instalasi XAMPP Anda.
+    - Jalankan modul Apache dan MySQL dari XAMPP Control Panel.
+    - Buat database baru di phpMyAdmin dan impor file `.sql` yang diperlukan (jika ada).
+    - Konfigurasi koneksi database di file PHP yang relevan (misalnya `backend/config.php`).
 
-> Windows Users: place the repository near the root of your drive if you face issues while cloning.
+2.  **Setup Frontend**:
 
-1. Install dependencies:
+    - Buka terminal di direktori root proyek (`peer_assesment`).
+    - Instal semua dependensi yang diperlukan dengan menjalankan perintah:
+      ```bash
+      npm install
+      ```
 
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+3.  **Menjalankan Proyek**:
+    - Setelah dependensi terinstal, jalankan server pengembangan Vite:
+      ```bash
+      npm run dev
+      ```
+    - Buka browser dan akses URL yang ditampilkan di terminal (biasanya `http://localhost:5173`).
 
-   > Use the `--legacy-peer-deps` flag, if you face issues while installing.
+## Lisensi
 
-2. Start the development server:
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
+Proyek ini dirilis di bawah Lisensi MIT.
 
-## Components
+<!-- ## Components
 
 TailAdmin is a pre-designed starting point for building a web-based dashboard using React.js and Tailwind CSS. The
 template includes:
@@ -189,4 +217,4 @@ TailAdmin React.js Free Version is released under the MIT License.
 ## Support
 
 If you find this project helpful, please consider giving it a star on GitHub. Your support helps us continue developing
-and maintaining this template.
+and maintaining this template. -->
